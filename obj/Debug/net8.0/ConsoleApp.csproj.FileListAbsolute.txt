@@ -1,0 +1,14 @@
+C:\Users\torri\OneDrive\Рабочий стол\Task\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\torri\OneDrive\Рабочий стол\Task\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\torri\OneDrive\Рабочий стол\Task\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\torri\OneDrive\Рабочий стол\Task\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\torri\OneDrive\Рабочий стол\Task\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\torri\OneDrive\Рабочий стол\Task\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\torri\OneDrive\Рабочий стол\Task\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\torri\OneDrive\Рабочий стол\Task\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\torri\OneDrive\Рабочий стол\Task\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\torri\OneDrive\Рабочий стол\Task\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\torri\OneDrive\Рабочий стол\Task\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\torri\OneDrive\Рабочий стол\Task\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\torri\OneDrive\Рабочий стол\Task\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\torri\OneDrive\Рабочий стол\Task\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
